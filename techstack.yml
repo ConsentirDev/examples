@@ -1,0 +1,684 @@
+repo_name: ConsentirDev/examples
+report_id: 9c6a39f8cd880ac3940f5f5349ddaa1f
+version: 0.1
+repo_type: Public
+timestamp: '2023-12-19T07:15:05+00:00'
+requested_by: tensorflower-gardener
+provider: github
+branch: master
+detected_tools_count: 61
+tools:
+- name: C++
+  description: Has imperative, object-oriented and generic programming features, while
+    also providing the facilities for low level memory manipulation
+  website_url: http://www.cplusplus.com/
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/1049/cplusplus.png
+  detection_source: Repo Metadata
+- name: CSS 3
+  description: The latest evolution of the Cascading Style Sheets language
+  website_url: https://developer.mozilla.org/en-US/docs/Web/CSS/CSS3
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/6727/css.png
+  detection_source: Repo Metadata
+- name: Java
+  description: A concurrent, class-based, object-oriented, language specifically designed
+    to have as few implementation dependencies as possible
+  website_url: https://www.java.com
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/995/K85ZWV2F.png
+  detection_source: Repo Metadata
+- name: JavaScript
+  description: Lightweight, interpreted, object-oriented language with first-class
+    functions
+  website_url: https://developer.mozilla.org/en-US/docs/Web/JavaScript
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/1209/javascript.jpeg
+  detection_source: Repo Metadata
+- name: Kotlin
+  description: Statically typed Programming Language targeting JVM and JavaScript
+  website_url: https://kotlinlang.org/
+  open_source: true
+  hosted_saas: true
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/3750/pCfEzr6L.png
+  detection_source: Repo Metadata
+- name: Objective-C
+  description: The primary programming language you use when writing software for
+    OS X and iOS
+  website_url: https://developer.apple.com/library/mac/documentation/Cocoa/Conceptual/ProgrammingWithObjectiveC/Introduction/Introduction.html
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/1008/xcode.png
+  detection_source: Repo Metadata
+- name: Python
+  description: A clear and powerful object-oriented programming language, comparable
+    to Perl, Ruby, Scheme, or Java.
+  website_url: https://www.python.org
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/993/pUBY5pVj.png
+  detection_source: Repo Metadata
+- name: Ruby
+  description: A dynamic, interpreted, open source programming language with a focus
+    on simplicity and productivity
+  website_url: https://www.ruby-lang.org
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/989/ruby.png
+  detection_source: Repo Metadata
+- name: Swift
+  description: 'An innovative new programming language for Cocoa and Cocoa Touch. '
+  website_url: https://developer.apple.com/swift/
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/1009/tuHsaI2U.png
+  detection_source: Repo Metadata
+- name: Android SDK
+  description: An SDK that provides you the API libraries and developer tools necessary
+    to build, test, and debug apps for Android.
+  website_url: http://developer.android.com
+  open_source: false
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Frameworks (Full Stack)
+  image_url: https://img.stackshare.io/service/1010/m8jf0po4imu8t5eemjdd.png
+  detection_source: lite/examples/video_classification/android/app/build.gradle
+  last_updated_by: A. Unique TensorFlower
+  last_updated_on: 2022-02-10 07:38:51.000000000 Z
+- name: Matplotlib
+  description: A plotting library for the Python programming language
+  website_url: http://matplotlib.org
+  open_source: false
+  hosted_saas: false
+  category: Libraries
+  sub_category: Charting Libraries
+  image_url: https://img.stackshare.io/service/2993/2DZC4KaA_400x400.jpg
+  detection_source: lite/examples/audio_classification/raspberry_pi/requirements.txt
+  last_updated_by: A. Unique TensorFlower
+  last_updated_on: 2022-07-01 05:36:31.000000000 Z
+- name: Protobuf
+  description: Google's data interchange format
+  website_url: https://developers.google.com/protocol-buffers/
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Serialization Frameworks
+  image_url: https://img.stackshare.io/service/4393/ma2jqJKH_400x400.png
+  detection_source: lite/examples/image_classification/raspberry_pi/requirements.txt
+  last_updated_by: Khanh LeViet
+  last_updated_on: 2022-08-27 03:40:44.000000000 Z
+- name: pgvector
+  description: Open-source vector similarity search for Postgres
+  website_url: https://github.com/pgvector/pgvector/
+  open_source: false
+  hosted_saas: false
+  category: Data Stores
+  sub_category: Database Tools
+  image_url: https://img.stackshare.io/service/109221/default_b888cdf5617d936aa6aacf130911906955508639.png
+  detection_source: lite/codelabs/flower_classification/android/finish/app/src/main/assets/labels.txt
+  last_updated_by: A. Unique TensorFlower
+  last_updated_on: 2020-03-11 02:08:23.000000000 Z
+- name: CMake
+  description: 'An open-source system that manages the build process '
+  website_url: http://www.cmake.org/
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Java Build Tools
+  image_url: https://img.stackshare.io/service/2424/0UlUI_y1_400x400.jpg
+  detection_source: Repo Metadata
+- name: Docker
+  description: Enterprise Container Platform for High-Velocity Innovation.
+  website_url: https://www.docker.com/
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Virtual Machine Platforms & Containers
+  image_url: https://img.stackshare.io/service/586/n4u37v9t_400x400.png
+  detection_source: Repo Metadata
+- name: Git
+  description: Fast, scalable, distributed revision control system
+  website_url: http://git-scm.com/
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Version Control System
+  image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source: Repo Metadata
+- name: Gradle
+  description: A powerful build system for the JVM
+  website_url: https://www.gradle.org/
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Java Build Tools
+  image_url: https://img.stackshare.io/service/975/gradlephant-social-black-bg.png
+  detection_source: lite/codelabs/digit_classifier/android/finish/app/build.gradle
+  last_updated_by: Khanh LeViet
+  last_updated_on: 2019-10-01 03:06:02.000000000 Z
+- name: PyPI
+  description: A repository of software for the Python programming language
+  website_url: https://pypi.org/
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Hosted Package Repository
+  image_url: https://img.stackshare.io/service/12572/-RIWgodF_400x400.jpg
+  detection_source: tensorflow_examples/lite/model_maker/requirements.txt
+  last_updated_by: Tian Lin
+  last_updated_on: 2020-02-21 12:06:02.000000000 Z
+- name: Robolectric
+  description: An open-source testing framework for Android
+  website_url: http://robolectric.org/
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Testing Frameworks
+  image_url: https://img.stackshare.io/service/2022/OavapKft_400x400.png
+  detection_source: lite/examples/audio_classification/android/app/build.gradle
+  last_updated_by: A. Unique TensorFlower
+  last_updated_on: 2022-07-01 02:23:33.000000000 Z
+- name: OpenCV
+  description: Open Source Computer Vision Library
+  website_url: http://opencv.org/
+  open_source: true
+  hosted_saas: false
+  category: Assets and Media
+  sub_category: Image Processing and Management
+  image_url: https://img.stackshare.io/service/1293/opencv-logo-64x64.png
+  detection_source: lite/examples/image_classification/raspberry_pi/requirements.txt
+  last_updated_by: Khanh LeViet
+  last_updated_on: 2021-11-24 09:03:17.000000000 Z
+- name: Pillow
+  description: Python Imaging Library
+  website_url: https://python-pillow.github.io/
+  open_source: true
+  hosted_saas: false
+  category: Assets and Media
+  sub_category: Image Processing and Management
+  image_url: https://img.stackshare.io/service/2375/default_1f67b0ca7416a9f52beb655f90b5602d5ef74b75.jpg
+  detection_source: lite/examples/reinforcement_learning/ml/tf_agents/requirements.txt
+  last_updated_by: Wei Wei
+  last_updated_on: 2022-05-03 14:01:05.000000000 Z
+- name: Sketch
+  description: Professional Digital Design for Mac
+  website_url: https://www.sketch.com/
+  open_source: false
+  hosted_saas: true
+  category: Design
+  sub_category: Graphic Design
+  image_url: https://img.stackshare.io/service/4561/default_6af179017eb5792be37441bc746e9cfd37814ea1.png
+  detection_source: lite/examples/digit_classifier/ios/Podfile
+  last_updated_by: A. Unique TensorFlower
+  last_updated_on: 2019-09-06 09:05:23.000000000 Z
+- name: Android OS
+  description: An open source mobile operating system by Google
+  website_url: https://www.android.com
+  open_source: false
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Operating Systems
+  image_url: https://img.stackshare.io/service/9586/ZvmtaSXW_400x400.jpg
+  detection_source: lite/examples/video_classification/android/app/build.gradle
+  last_updated_by: A. Unique TensorFlower
+  last_updated_on: 2022-02-10 07:38:51.000000000 Z
+- name: CocoaPods
+  description: A dependency manager for Swift and Objective-C Cocoa projects
+  website_url: https://cocoapods.org/
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: CocoaPods Packages
+  image_url: https://img.stackshare.io/service/2426/e1cbdef9d4b11484049a033886578e54_400x400.png
+  detection_source: lite/examples/audio_classification/ios/Podfile.lock
+  last_updated_by: Khanh LeViet
+  last_updated_on: 2022-10-14 03:39:22.000000000 Z
+- name: Cython
+  description: A static compiler Python and Cython languages
+  website_url: http://cython.org/
+  open_source: false
+  hosted_saas: false
+  image_url: https://img.stackshare.io/service/7450/Cython-logo.svg.png
+  detection_source: tensorflow_examples/lite/model_maker/requirements_nightly.txt
+  last_updated_by: Tian Lin
+  last_updated_on: 2021-07-16 03:35:02.000000000 Z
+- name: Jupyter
+  description: Multi-language interactive computing environments.
+  website_url: http://jupyter.org
+  license: BSD-3-Clause
+  open_source: true
+  hosted_saas: false
+  category: Application Utilities
+  sub_category: Data Science Notebooks
+  image_url: https://img.stackshare.io/service/4190/fGBUdNf__400x400.jpg
+  detection_source: Repo Metadata
+- name: LangChain
+  description: Build AI apps with LLMs through composability
+  website_url: https://github.com/hwchase17/langchain
+  open_source: true
+  hosted_saas: false
+  category: Communications
+  sub_category: Large Language Model Tools
+  image_url: https://img.stackshare.io/service/48790/default_5b6c6b73f1ff3775c85d2a1ba954cb87e30cbf13.jpg
+  detection_source: lite/codelabs/flower_classification/android/finish/app/src/main/assets/labels.txt
+  last_updated_by: A. Unique TensorFlower
+  last_updated_on: 2020-03-11 02:08:23.000000000 Z
+- name: NumPy
+  description: Fundamental package for scientific computing with Python
+  website_url: http://www.numpy.org/
+  license: BSD-3-Clause
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Data Science Tools
+  image_url: https://img.stackshare.io/service/2179/default_332f874a2edb2686f578aa6389313efcea1eec41.png
+  detection_source: lite/examples/image_classification/raspberry_pi/requirements.txt
+  last_updated_by: Khanh LeViet
+  last_updated_on: 2021-11-02 07:43:41.000000000 Z
+- name: PyYAML
+  website_url: http://pyyaml.org/wiki/PyYAML
+  open_source: false
+  hosted_saas: false
+  image_url: https://img.stackshare.io/service/3730/no-img-open-source.png
+  detection_source: tensorflow_examples/lite/model_maker/requirements_nightly.txt
+  last_updated_by: Yuqi Li
+  last_updated_on: 2020-12-24 04:30:32.000000000 Z
+- name: SciPy
+  description: Scientific Computing Tools for Python
+  website_url: http://www.scipy.org
+  license: BSD-3-Clause
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Data Science Tools
+  image_url: https://img.stackshare.io/service/3303/scipyshiny_small.png
+  detection_source: lite/examples/audio_classification/raspberry_pi/requirements.txt
+  last_updated_by: A. Unique TensorFlower
+  last_updated_on: 2022-07-01 05:36:31.000000000 Z
+- name: Shell
+  description: A shell is a text-based terminal, used for manipulating programs and
+    files. Shell scripts typically manage program execution.
+  website_url: https://en.wikipedia.org/wiki/Shell_script
+  open_source: false
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/4631/default_c2062d40130562bdc836c13dbca02d318205a962.png
+  detection_source: Repo Metadata
+- name: TensorFlow
+  description: Open Source Software Library for Machine Intelligence
+  website_url: https://www.tensorflow.org
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Application Utilities
+  sub_category: Machine Learning Tools
+  image_url: https://img.stackshare.io/service/4717/FtFnqC38_400x400.png
+  detection_source: lite/examples/image_classification/metadata/requirements.txt
+  last_updated_by: A. Unique TensorFlower
+  last_updated_on: 2020-03-11 10:42:41.000000000 Z
+- name: Keras
+  description: Deep Learning for humans
+  package_url: https://pypi.org/project/Keras
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: PyPI Packages
+  image_url: https://img.stackshare.io/package/20139/default_e3ea003987b13e5c9b8c9000c748b25a9c0d9ecd.png
+  detection_source: lite/examples/speech_commands/ml/requirements.txt
+  last_updated_by: A. Unique TensorFlower
+  last_updated_on: 2019-02-27 00:22:03.000000000 Z
+- name: absl-py
+  description: Abseil Python Common Libraries
+  package_url: https://pypi.org/project/absl-py
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: PyPI Packages
+  image_url: https://img.stackshare.io/package/20195/default_14fd0a08e7a20af54a529b4d1523b81a6f84ed75.png
+  detection_source: lite/examples/image_classification/metadata/requirements.txt
+  last_updated_by: A. Unique TensorFlower
+  last_updated_on: 2020-03-11 10:42:41.000000000 Z
+- name: argparse
+  description: Python command-line parsing library
+  package_url: https://pypi.org/project/argparse
+  license: Python-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: PyPI Packages
+  image_url: https://img.stackshare.io/package/19871/default_d05f6f09935776629f62e8aed365805502c14921.png
+  detection_source: lite/examples/audio_classification/raspberry_pi/requirements.txt
+  last_updated_by: A. Unique TensorFlower
+  last_updated_on: 2022-07-01 05:36:31.000000000 Z
+- name: fire
+  description: A library for automatically generating command line interfaces
+  package_url: https://pypi.org/project/fire
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: PyPI Packages
+  image_url: https://img.stackshare.io/package/20129/default_3146a05cf4dd77d8b50cff25709373c081ac5053.png
+  detection_source: tensorflow_examples/lite/model_maker/requirements.txt
+  last_updated_by: Yuqi Li
+  last_updated_on: 2020-10-15 07:28:53.000000000 Z
+- name: flatbuffers
+  description: The FlatBuffers serialization format for Python
+  package_url: https://pypi.org/project/flatbuffers
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: PyPI Packages
+  image_url: https://img.stackshare.io/package/pypi/image.png
+  detection_source: lite/examples/image_classification/metadata/requirements.txt
+  last_updated_by: Yuqi Li
+  last_updated_on: 2020-04-28 07:20:03.000000000 Z
+- name: gym
+  description: 'The OpenAI Gym: A toolkit for developing and comparing your reinforcement
+    learning agents'
+  package_url: https://pypi.org/project/gym
+  license: Other
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: PyPI Packages
+  image_url: https://img.stackshare.io/package/20403/default_ce843a13e614e0f1450cbeee8c38810e4f092f1e.png
+  detection_source: lite/examples/reinforcement_learning/ml/tf_and_jax/gym_planestrike/setup.py
+  last_updated_by: A. Unique TensorFlower
+  last_updated_on: 2021-07-15 03:29:27.000000000 Z
+- name: librosa
+  description: Python module for audio and music processing
+  package_url: https://pypi.org/project/librosa
+  license: ISC
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: PyPI Packages
+  image_url: https://img.stackshare.io/package/pypi/image.png
+  detection_source: tensorflow_examples/lite/model_maker/requirements.txt
+  last_updated_by: Xunkai Zhang
+  last_updated_on: 2021-08-24 04:59:30.000000000 Z
+- name: lxml
+  description: Powerful and Pythonic XML processing library combining libxml2/libxslt
+    with the ElementTree API
+  package_url: https://pypi.org/project/lxml
+  license: BSD-3-Clause
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: PyPI Packages
+  image_url: https://img.stackshare.io/package/19835/default_85689b353a3a9409328e253ea28d859d29151e0c.png
+  detection_source: tensorflow_examples/lite/model_maker/requirements.txt
+  last_updated_by: Yuqi Li
+  last_updated_on: 2020-12-24 04:30:32.000000000 Z
+- name: numba
+  description: Compiling Python code using LLVM
+  package_url: https://pypi.org/project/numba
+  license: BSD-3-Clause
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: PyPI Packages
+  image_url: https://img.stackshare.io/package/20053/default_9f5ca9b3fcd68c068d4026e56ab738e8e865691f.png
+  detection_source: tensorflow_examples/lite/model_maker/requirements.txt
+  last_updated_by: Xunkai Zhang
+  last_updated_on: 2021-08-24 04:59:30.000000000 Z
+- name: opencv-python
+  description: Wrapper package for OpenCV python bindings
+  package_url: https://pypi.org/project/opencv-python
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: PyPI Packages
+  image_url: https://img.stackshare.io/package/pypi/image.png
+  detection_source: lite/examples/image_classification/raspberry_pi/requirements.txt
+  last_updated_by: Khanh LeViet
+  last_updated_on: 2021-11-02 07:43:41.000000000 Z
+- name: pandas
+  description: Powerful data structures for data analysis
+  package_url: https://pypi.org/project/pandas
+  license: BSD-3-Clause
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: PyPI Packages
+  image_url: https://img.stackshare.io/package/19837/default_85689b353a3a9409328e253ea28d859d29151e0c.png
+  detection_source: lite/examples/pose_estimation/raspberry_pi/requirements.txt
+  last_updated_by: Khanh LeViet
+  last_updated_on: 2021-11-24 09:03:17.000000000 Z
+- name: six
+  description: Python 2 and 3 compatibility utilities
+  package_url: https://pypi.org/project/six
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: PyPI Packages
+  image_url: https://img.stackshare.io/package/19827/default_74a61b43bdb9fc0cba2978316b9976f43545029b.png
+  detection_source: tensorflow_examples/lite/model_maker/requirements.txt
+  last_updated_by: Tian Lin
+  last_updated_on: 2020-02-21 12:06:02.000000000 Z
+- name: sounddevice
+  description: Play and Record Sound with Python
+  package_url: https://pypi.org/project/sounddevice
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: PyPI Packages
+  image_url: https://img.stackshare.io/package/pypi/image.png
+  detection_source: lite/examples/audio_classification/raspberry_pi/requirements.txt
+  last_updated_by: A. Unique TensorFlower
+  last_updated_on: 2022-07-01 05:36:31.000000000 Z
+- name: tensorboard
+  description: TensorBoard lets you watch Tensors Flow
+  package_url: https://pypi.org/project/tensorboard
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: PyPI Packages
+  image_url: https://img.stackshare.io/package/pypi/image.png
+  detection_source: lite/examples/reinforcement_learning/ml/tf_and_jax/requirements.txt
+  last_updated_by: Wei Wei
+  last_updated_on: 2022-09-09 01:03:58.000000000 Z
+- name: tensorflow-probability
+  description: Probabilistic modeling and statistical inference in TensorFlow
+  package_url: https://pypi.org/project/tensorflow-probability
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: PyPI Packages
+  image_url: https://img.stackshare.io/package/pypi/image.png
+  detection_source: lite/examples/reinforcement_learning/ml/tf_agents/requirements.txt
+  last_updated_by: A. Unique TensorFlower
+  last_updated_on: 2022-06-24 01:38:20.000000000 Z
+- name: tqdm
+  description: Fast, Extensible Progress Meter
+  package_url: https://pypi.org/project/tqdm
+  license: MPL-2.0,MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: PyPI Packages
+  image_url: https://img.stackshare.io/package/19846/default_accee5d2b8ed75c2245f13504daf75b1cbc8cc9f.png
+  detection_source: lite/examples/reinforcement_learning/ml/tf_and_jax/requirements.txt
+  last_updated_by: Wei Wei
+  last_updated_on: 2022-09-09 01:03:58.000000000 Z
+- name: urllib3
+  description: HTTP library with thread-safe connection pooling
+  package_url: https://pypi.org/project/urllib3
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: PyPI Packages
+  image_url: https://img.stackshare.io/package/19842/default_4604ff5dcb7f4d9c7b3833591c2142493951b19c.png
+  detection_source: tensorflow_examples/lite/model_maker/requirements.txt
+  last_updated_by: Yuqi Li
+  last_updated_on: 2020-11-11 09:23:09.000000000 Z
+- name: wget
+  description: Pure python download utility
+  package_url: https://pypi.org/project/wget
+  license: Unlicense
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: PyPI Packages
+  image_url: https://img.stackshare.io/package/pypi/image.png
+  detection_source: lite/examples/speech_commands/ml/requirements.txt
+  last_updated_by: A. Unique TensorFlower
+  last_updated_on: 2019-02-27 00:22:03.000000000 Z
+- name: com.github.bumptech.glide:glide
+  description: A fast and efficient image loading library for Android focused on smooth
+    scrolling
+  license: BSD-2-Clause,Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source: lite/examples/optical_character_recognition/android/app/build.gradle
+  last_updated_by: A. Unique TensorFlower
+  last_updated_on: 2022-04-15 20:03:57.000000000 Z
+- name: com.google.code.gson:gson
+  description: Gson JSON library
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source: lite/examples/bert_qa/android/app/build.gradle
+  last_updated_by: Paul Trebilcox-Ruiz
+  last_updated_on: 2022-08-18 02:32:01.000000000 Z
+- name: com.google.guava:guava
+  description: Guava is a suite of core and expanded libraries that include utility
+    classes
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source: lite/examples/bert_qa/android/app/build.gradle
+  last_updated_by: Paul Trebilcox-Ruiz
+  last_updated_on: 2022-08-18 02:32:01.000000000 Z
+- name: com.google.truth:truth
+  description: Parent metadata for Truth, a Java assertion framework
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source: lite/examples/recommendation/android/app/build.gradle
+  last_updated_by: Tian Lin
+  last_updated_on: 2020-07-29 14:59:12.000000000 Z
+- name: junit:junit
+  description: JUnit is a unit testing framework for Java
+  license: EPL-1.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source: lite/codelabs/digit_classifier/android/finish/app/build.gradle
+  last_updated_by: Khanh LeViet
+  last_updated_on: 2021-06-02 04:29:57.000000000 Z
+- name: org.jetbrains.kotlin:kotlin-stdlib
+  description: Kotlin Standard Library for JVM
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source: lite/examples/optical_character_recognition/android/app/build.gradle
+  last_updated_by: A. Unique TensorFlower
+  last_updated_on: 2021-08-24 14:01:01.000000000 Z
+- name: org.jetbrains.kotlin:kotlin-stdlib-jdk7
+  description: Kotlin Standard Library JDK 7 extension
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source: lite/codelabs/digit_classifier/android/finish/app/build.gradle
+  last_updated_by: Khanh LeViet
+  last_updated_on: 2021-06-02 04:29:57.000000000 Z
+- name: org.jetbrains.kotlin:kotlin-stdlib-jdk8
+  description: Kotlin Standard Library JDK 8 extension
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source: lite/examples/audio_classification/android/app/build.gradle
+  last_updated_by: A. Unique TensorFlower
+  last_updated_on: 2022-07-01 02:23:33.000000000 Z
+- name: org.jetbrains.kotlinx:kotlinx-coroutines-core
+  open_source: false
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source: lite/examples/optical_character_recognition/android/app/build.gradle
+  last_updated_by: A. Unique TensorFlower
+  last_updated_on: 2021-08-24 14:01:01.000000000 Z
+- name: org.robolectric:robolectric
+  description: An alternative Android testing framework
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source: lite/examples/audio_classification/android/app/build.gradle
+  last_updated_by: A. Unique TensorFlower
+  last_updated_on: 2022-07-01 02:23:33.000000000 Z
+- name: TensorFlowLiteSwift
+  description: TensorFlow Lite for Swift
+  package_url: https://cocoapods.org/pods/TensorFlowLiteSwift
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: CocoaPods Packages
+  image_url: https://img.stackshare.io/package/cocoapods/image.png
+  detection_source: lite/examples/digit_classifier/ios/Podfile
+  last_updated_by: A. Unique TensorFlower
+  last_updated_on: 2019-09-06 09:05:23.000000000 Z
