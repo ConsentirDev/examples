@@ -74,7 +74,7 @@ Full tech stack [here](/techstack.md)
 # Tech Stack File
 ![](https://img.stackshare.io/repo.svg "repo") [ConsentirDev/examples](https://github.com/ConsentirDev/examples)![](https://img.stackshare.io/public_badge.svg "public")
 <br/><br/>
-|61<br/>Tools used|12/19/23 <br/>Report generated|
+|63<br/>Tools used|01/05/24 <br/>Report generated|
 |------|------|
 </div>
 
@@ -369,13 +369,15 @@ Full tech stack [here](/techstack.md)
 </table>
 
 
-## <img src='https://img.stackshare.io/group.svg' /> Open source packages (29)</h2>
+## <img src='https://img.stackshare.io/group.svg' /> Open source packages (31)</h2>
 
-## <img width='24' height='24' src='https://img.stackshare.io/service/12572/-RIWgodF_400x400.jpg'/> PyPI (18)
+## <img width='24' height='24' src='https://img.stackshare.io/service/12572/-RIWgodF_400x400.jpg'/> PyPI (20)
 
 |NAME|VERSION|LAST UPDATED|LAST UPDATED BY|LICENSE|VULNERABILITIES|
 |:------|:------|:------|:------|:------|:------|
+|[Cython](https://pypi.org/project/Cython)|N/A|07/16/21|Tian Lin |Apache-2.0|N/A|
 |[Keras](https://pypi.org/project/Keras)|N/A|02/27/19|A. Unique TensorFlower |Apache-2.0|N/A|
+|[PyYAML](https://pypi.org/project/PyYAML)|N/A|12/24/20|Yuqi Li |MIT|N/A|
 |[absl-py](https://pypi.org/project/absl-py)|N/A|03/11/20|A. Unique TensorFlower |Apache-2.0|N/A|
 |[argparse](https://pypi.org/project/argparse)|N/A|07/01/22|A. Unique TensorFlower |Python-2.0|N/A|
 |[fire](https://pypi.org/project/fire)|N/A|10/15/20|Yuqi Li |Apache-2.0|N/A|
