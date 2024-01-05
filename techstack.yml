@@ -2,11 +2,11 @@ repo_name: ConsentirDev/examples
 report_id: 9c6a39f8cd880ac3940f5f5349ddaa1f
 version: 0.1
 repo_type: Public
-timestamp: '2023-12-19T07:15:05+00:00'
+timestamp: '2024-01-05T08:58:14+00:00'
 requested_by: tensorflower-gardener
 provider: github
 branch: master
-detected_tools_count: 61
+detected_tools_count: 63
 tools:
 - name: C++
   description: Has imperative, object-oriented and generic programming features, while
@@ -17,6 +17,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/1049/cplusplus.png
+  detection_source_url: https://github.com/ConsentirDev/examples
   detection_source: Repo Metadata
 - name: CSS 3
   description: The latest evolution of the Cascading Style Sheets language
@@ -26,6 +27,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/6727/css.png
+  detection_source_url: https://github.com/ConsentirDev/examples
   detection_source: Repo Metadata
 - name: Java
   description: A concurrent, class-based, object-oriented, language specifically designed
@@ -36,6 +38,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/995/K85ZWV2F.png
+  detection_source_url: https://github.com/ConsentirDev/examples
   detection_source: Repo Metadata
 - name: JavaScript
   description: Lightweight, interpreted, object-oriented language with first-class
@@ -46,6 +49,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/1209/javascript.jpeg
+  detection_source_url: https://github.com/ConsentirDev/examples
   detection_source: Repo Metadata
 - name: Kotlin
   description: Statically typed Programming Language targeting JVM and JavaScript
@@ -55,6 +59,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/3750/pCfEzr6L.png
+  detection_source_url: https://github.com/ConsentirDev/examples
   detection_source: Repo Metadata
 - name: Objective-C
   description: The primary programming language you use when writing software for
@@ -65,6 +70,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/1008/xcode.png
+  detection_source_url: https://github.com/ConsentirDev/examples
   detection_source: Repo Metadata
 - name: Python
   description: A clear and powerful object-oriented programming language, comparable
@@ -75,6 +81,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/993/pUBY5pVj.png
+  detection_source_url: https://github.com/ConsentirDev/examples
   detection_source: Repo Metadata
 - name: Ruby
   description: A dynamic, interpreted, open source programming language with a focus
@@ -85,6 +92,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/989/ruby.png
+  detection_source_url: https://github.com/ConsentirDev/examples
   detection_source: Repo Metadata
 - name: Swift
   description: 'An innovative new programming language for Cocoa and Cocoa Touch. '
@@ -95,6 +103,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/1009/tuHsaI2U.png
+  detection_source_url: https://github.com/ConsentirDev/examples
   detection_source: Repo Metadata
 - name: Android SDK
   description: An SDK that provides you the API libraries and developer tools necessary
@@ -105,6 +114,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Frameworks (Full Stack)
   image_url: https://img.stackshare.io/service/1010/m8jf0po4imu8t5eemjdd.png
+  detection_source_url: https://github.com/ConsentirDev/examples/blob/master/lite/examples/video_classification/android/app/build.gradle
   detection_source: lite/examples/video_classification/android/app/build.gradle
   last_updated_by: A. Unique TensorFlower
   last_updated_on: 2022-02-10 07:38:51.000000000 Z
@@ -116,6 +126,7 @@ tools:
   category: Libraries
   sub_category: Charting Libraries
   image_url: https://img.stackshare.io/service/2993/2DZC4KaA_400x400.jpg
+  detection_source_url: https://github.com/ConsentirDev/examples/blob/master/lite/examples/audio_classification/raspberry_pi/requirements.txt
   detection_source: lite/examples/audio_classification/raspberry_pi/requirements.txt
   last_updated_by: A. Unique TensorFlower
   last_updated_on: 2022-07-01 05:36:31.000000000 Z
@@ -127,6 +138,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Serialization Frameworks
   image_url: https://img.stackshare.io/service/4393/ma2jqJKH_400x400.png
+  detection_source_url: https://github.com/ConsentirDev/examples/blob/master/lite/examples/image_classification/raspberry_pi/requirements.txt
   detection_source: lite/examples/image_classification/raspberry_pi/requirements.txt
   last_updated_by: Khanh LeViet
   last_updated_on: 2022-08-27 03:40:44.000000000 Z
@@ -138,6 +150,7 @@ tools:
   category: Data Stores
   sub_category: Database Tools
   image_url: https://img.stackshare.io/service/109221/default_b888cdf5617d936aa6aacf130911906955508639.png
+  detection_source_url: https://github.com/ConsentirDev/examples/blob/master/lite/codelabs/flower_classification/android/finish/app/src/main/assets/labels.txt
   detection_source: lite/codelabs/flower_classification/android/finish/app/src/main/assets/labels.txt
   last_updated_by: A. Unique TensorFlower
   last_updated_on: 2020-03-11 02:08:23.000000000 Z
@@ -149,6 +162,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Java Build Tools
   image_url: https://img.stackshare.io/service/2424/0UlUI_y1_400x400.jpg
+  detection_source_url: https://github.com/ConsentirDev/examples
   detection_source: Repo Metadata
 - name: Docker
   description: Enterprise Container Platform for High-Velocity Innovation.
@@ -159,6 +173,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Virtual Machine Platforms & Containers
   image_url: https://img.stackshare.io/service/586/n4u37v9t_400x400.png
+  detection_source_url: https://github.com/ConsentirDev/examples
   detection_source: Repo Metadata
 - name: Git
   description: Fast, scalable, distributed revision control system
@@ -168,6 +183,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Version Control System
   image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/ConsentirDev/examples
   detection_source: Repo Metadata
 - name: Gradle
   description: A powerful build system for the JVM
@@ -178,6 +194,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Java Build Tools
   image_url: https://img.stackshare.io/service/975/gradlephant-social-black-bg.png
+  detection_source_url: https://github.com/ConsentirDev/examples/blob/master/lite/codelabs/digit_classifier/android/finish/app/build.gradle
   detection_source: lite/codelabs/digit_classifier/android/finish/app/build.gradle
   last_updated_by: Khanh LeViet
   last_updated_on: 2019-10-01 03:06:02.000000000 Z
@@ -189,6 +206,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Hosted Package Repository
   image_url: https://img.stackshare.io/service/12572/-RIWgodF_400x400.jpg
+  detection_source_url: https://github.com/ConsentirDev/examples/blob/master/tensorflow_examples/lite/model_maker/requirements.txt
   detection_source: tensorflow_examples/lite/model_maker/requirements.txt
   last_updated_by: Tian Lin
   last_updated_on: 2020-02-21 12:06:02.000000000 Z
@@ -200,6 +218,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Testing Frameworks
   image_url: https://img.stackshare.io/service/2022/OavapKft_400x400.png
+  detection_source_url: https://github.com/ConsentirDev/examples/blob/master/lite/examples/audio_classification/android/app/build.gradle
   detection_source: lite/examples/audio_classification/android/app/build.gradle
   last_updated_by: A. Unique TensorFlower
   last_updated_on: 2022-07-01 02:23:33.000000000 Z
@@ -211,6 +230,7 @@ tools:
   category: Assets and Media
   sub_category: Image Processing and Management
   image_url: https://img.stackshare.io/service/1293/opencv-logo-64x64.png
+  detection_source_url: https://github.com/ConsentirDev/examples/blob/master/lite/examples/image_classification/raspberry_pi/requirements.txt
   detection_source: lite/examples/image_classification/raspberry_pi/requirements.txt
   last_updated_by: Khanh LeViet
   last_updated_on: 2021-11-24 09:03:17.000000000 Z
@@ -222,6 +242,7 @@ tools:
   category: Assets and Media
   sub_category: Image Processing and Management
   image_url: https://img.stackshare.io/service/2375/default_1f67b0ca7416a9f52beb655f90b5602d5ef74b75.jpg
+  detection_source_url: https://github.com/ConsentirDev/examples/blob/master/lite/examples/reinforcement_learning/ml/tf_agents/requirements.txt
   detection_source: lite/examples/reinforcement_learning/ml/tf_agents/requirements.txt
   last_updated_by: Wei Wei
   last_updated_on: 2022-05-03 14:01:05.000000000 Z
@@ -233,6 +254,7 @@ tools:
   category: Design
   sub_category: Graphic Design
   image_url: https://img.stackshare.io/service/4561/default_6af179017eb5792be37441bc746e9cfd37814ea1.png
+  detection_source_url: https://github.com/ConsentirDev/examples/blob/master/lite/examples/digit_classifier/ios/Podfile
   detection_source: lite/examples/digit_classifier/ios/Podfile
   last_updated_by: A. Unique TensorFlower
   last_updated_on: 2019-09-06 09:05:23.000000000 Z
@@ -244,6 +266,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Operating Systems
   image_url: https://img.stackshare.io/service/9586/ZvmtaSXW_400x400.jpg
+  detection_source_url: https://github.com/ConsentirDev/examples/blob/master/lite/examples/video_classification/android/app/build.gradle
   detection_source: lite/examples/video_classification/android/app/build.gradle
   last_updated_by: A. Unique TensorFlower
   last_updated_on: 2022-02-10 07:38:51.000000000 Z
@@ -255,6 +278,7 @@ tools:
   category: Libraries
   sub_category: CocoaPods Packages
   image_url: https://img.stackshare.io/service/2426/e1cbdef9d4b11484049a033886578e54_400x400.png
+  detection_source_url: https://github.com/ConsentirDev/examples/blob/master/lite/examples/audio_classification/ios/Podfile.lock
   detection_source: lite/examples/audio_classification/ios/Podfile.lock
   last_updated_by: Khanh LeViet
   last_updated_on: 2022-10-14 03:39:22.000000000 Z
@@ -264,6 +288,7 @@ tools:
   open_source: false
   hosted_saas: false
   image_url: https://img.stackshare.io/service/7450/Cython-logo.svg.png
+  detection_source_url: https://github.com/ConsentirDev/examples/blob/master/tensorflow_examples/lite/model_maker/requirements_nightly.txt
   detection_source: tensorflow_examples/lite/model_maker/requirements_nightly.txt
   last_updated_by: Tian Lin
   last_updated_on: 2021-07-16 03:35:02.000000000 Z
@@ -276,6 +301,7 @@ tools:
   category: Application Utilities
   sub_category: Data Science Notebooks
   image_url: https://img.stackshare.io/service/4190/fGBUdNf__400x400.jpg
+  detection_source_url: https://github.com/ConsentirDev/examples
   detection_source: Repo Metadata
 - name: LangChain
   description: Build AI apps with LLMs through composability
@@ -285,6 +311,7 @@ tools:
   category: Communications
   sub_category: Large Language Model Tools
   image_url: https://img.stackshare.io/service/48790/default_5b6c6b73f1ff3775c85d2a1ba954cb87e30cbf13.jpg
+  detection_source_url: https://github.com/ConsentirDev/examples/blob/master/lite/codelabs/flower_classification/android/finish/app/src/main/assets/labels.txt
   detection_source: lite/codelabs/flower_classification/android/finish/app/src/main/assets/labels.txt
   last_updated_by: A. Unique TensorFlower
   last_updated_on: 2020-03-11 02:08:23.000000000 Z
@@ -297,6 +324,7 @@ tools:
   category: Libraries
   sub_category: Data Science Tools
   image_url: https://img.stackshare.io/service/2179/default_332f874a2edb2686f578aa6389313efcea1eec41.png
+  detection_source_url: https://github.com/ConsentirDev/examples/blob/master/lite/examples/image_classification/raspberry_pi/requirements.txt
   detection_source: lite/examples/image_classification/raspberry_pi/requirements.txt
   last_updated_by: Khanh LeViet
   last_updated_on: 2021-11-02 07:43:41.000000000 Z
@@ -305,6 +333,7 @@ tools:
   open_source: false
   hosted_saas: false
   image_url: https://img.stackshare.io/service/3730/no-img-open-source.png
+  detection_source_url: https://github.com/ConsentirDev/examples/blob/master/tensorflow_examples/lite/model_maker/requirements_nightly.txt
   detection_source: tensorflow_examples/lite/model_maker/requirements_nightly.txt
   last_updated_by: Yuqi Li
   last_updated_on: 2020-12-24 04:30:32.000000000 Z
@@ -317,6 +346,7 @@ tools:
   category: Libraries
   sub_category: Data Science Tools
   image_url: https://img.stackshare.io/service/3303/scipyshiny_small.png
+  detection_source_url: https://github.com/ConsentirDev/examples/blob/master/lite/examples/audio_classification/raspberry_pi/requirements.txt
   detection_source: lite/examples/audio_classification/raspberry_pi/requirements.txt
   last_updated_by: A. Unique TensorFlower
   last_updated_on: 2022-07-01 05:36:31.000000000 Z
@@ -329,6 +359,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/4631/default_c2062d40130562bdc836c13dbca02d318205a962.png
+  detection_source_url: https://github.com/ConsentirDev/examples
   detection_source: Repo Metadata
 - name: TensorFlow
   description: Open Source Software Library for Machine Intelligence
@@ -339,9 +370,23 @@ tools:
   category: Application Utilities
   sub_category: Machine Learning Tools
   image_url: https://img.stackshare.io/service/4717/FtFnqC38_400x400.png
+  detection_source_url: https://github.com/ConsentirDev/examples/blob/master/lite/examples/image_classification/metadata/requirements.txt
   detection_source: lite/examples/image_classification/metadata/requirements.txt
   last_updated_by: A. Unique TensorFlower
   last_updated_on: 2020-03-11 10:42:41.000000000 Z
+- name: Cython
+  description: The Cython compiler for writing C extensions for the Python language
+  package_url: https://pypi.org/project/Cython
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: PyPI Packages
+  image_url: https://img.stackshare.io/package/19929/default_74a0c20721d3a0a1484d69586401591fe8993db2.png
+  detection_source_url: https://github.com/ConsentirDev/examples/blob/master/tensorflow_examples/lite/model_maker/requirements.txt
+  detection_source: tensorflow_examples/lite/model_maker/requirements.txt
+  last_updated_by: Tian Lin
+  last_updated_on: 2021-07-16 03:35:02.000000000 Z
 - name: Keras
   description: Deep Learning for humans
   package_url: https://pypi.org/project/Keras
@@ -351,9 +396,23 @@ tools:
   category: Libraries
   sub_category: PyPI Packages
   image_url: https://img.stackshare.io/package/20139/default_e3ea003987b13e5c9b8c9000c748b25a9c0d9ecd.png
+  detection_source_url: https://github.com/ConsentirDev/examples/blob/master/lite/examples/speech_commands/ml/requirements.txt
   detection_source: lite/examples/speech_commands/ml/requirements.txt
   last_updated_by: A. Unique TensorFlower
   last_updated_on: 2019-02-27 00:22:03.000000000 Z
+- name: PyYAML
+  description: YAML parser and emitter for Python
+  package_url: https://pypi.org/project/PyYAML
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: PyPI Packages
+  image_url: https://img.stackshare.io/package/19829/default_74a61b43bdb9fc0cba2978316b9976f43545029b.png
+  detection_source_url: https://github.com/ConsentirDev/examples/blob/master/tensorflow_examples/lite/model_maker/requirements.txt
+  detection_source: tensorflow_examples/lite/model_maker/requirements.txt
+  last_updated_by: Yuqi Li
+  last_updated_on: 2020-12-24 04:30:32.000000000 Z
 - name: absl-py
   description: Abseil Python Common Libraries
   package_url: https://pypi.org/project/absl-py
@@ -363,6 +422,7 @@ tools:
   category: Libraries
   sub_category: PyPI Packages
   image_url: https://img.stackshare.io/package/20195/default_14fd0a08e7a20af54a529b4d1523b81a6f84ed75.png
+  detection_source_url: https://github.com/ConsentirDev/examples/blob/master/lite/examples/image_classification/metadata/requirements.txt
   detection_source: lite/examples/image_classification/metadata/requirements.txt
   last_updated_by: A. Unique TensorFlower
   last_updated_on: 2020-03-11 10:42:41.000000000 Z
@@ -375,6 +435,7 @@ tools:
   category: Libraries
   sub_category: PyPI Packages
   image_url: https://img.stackshare.io/package/19871/default_d05f6f09935776629f62e8aed365805502c14921.png
+  detection_source_url: https://github.com/ConsentirDev/examples/blob/master/lite/examples/audio_classification/raspberry_pi/requirements.txt
   detection_source: lite/examples/audio_classification/raspberry_pi/requirements.txt
   last_updated_by: A. Unique TensorFlower
   last_updated_on: 2022-07-01 05:36:31.000000000 Z
@@ -387,6 +448,7 @@ tools:
   category: Libraries
   sub_category: PyPI Packages
   image_url: https://img.stackshare.io/package/20129/default_3146a05cf4dd77d8b50cff25709373c081ac5053.png
+  detection_source_url: https://github.com/ConsentirDev/examples/blob/master/tensorflow_examples/lite/model_maker/requirements.txt
   detection_source: tensorflow_examples/lite/model_maker/requirements.txt
   last_updated_by: Yuqi Li
   last_updated_on: 2020-10-15 07:28:53.000000000 Z
@@ -399,6 +461,7 @@ tools:
   category: Libraries
   sub_category: PyPI Packages
   image_url: https://img.stackshare.io/package/pypi/image.png
+  detection_source_url: https://github.com/ConsentirDev/examples/blob/master/lite/examples/image_classification/metadata/requirements.txt
   detection_source: lite/examples/image_classification/metadata/requirements.txt
   last_updated_by: Yuqi Li
   last_updated_on: 2020-04-28 07:20:03.000000000 Z
@@ -412,6 +475,7 @@ tools:
   category: Libraries
   sub_category: PyPI Packages
   image_url: https://img.stackshare.io/package/20403/default_ce843a13e614e0f1450cbeee8c38810e4f092f1e.png
+  detection_source_url: https://github.com/ConsentirDev/examples/blob/master/lite/examples/reinforcement_learning/ml/tf_and_jax/gym_planestrike/setup.py
   detection_source: lite/examples/reinforcement_learning/ml/tf_and_jax/gym_planestrike/setup.py
   last_updated_by: A. Unique TensorFlower
   last_updated_on: 2021-07-15 03:29:27.000000000 Z
@@ -424,6 +488,7 @@ tools:
   category: Libraries
   sub_category: PyPI Packages
   image_url: https://img.stackshare.io/package/pypi/image.png
+  detection_source_url: https://github.com/ConsentirDev/examples/blob/master/tensorflow_examples/lite/model_maker/requirements.txt
   detection_source: tensorflow_examples/lite/model_maker/requirements.txt
   last_updated_by: Xunkai Zhang
   last_updated_on: 2021-08-24 04:59:30.000000000 Z
@@ -437,6 +502,7 @@ tools:
   category: Libraries
   sub_category: PyPI Packages
   image_url: https://img.stackshare.io/package/19835/default_85689b353a3a9409328e253ea28d859d29151e0c.png
+  detection_source_url: https://github.com/ConsentirDev/examples/blob/master/tensorflow_examples/lite/model_maker/requirements.txt
   detection_source: tensorflow_examples/lite/model_maker/requirements.txt
   last_updated_by: Yuqi Li
   last_updated_on: 2020-12-24 04:30:32.000000000 Z
@@ -449,6 +515,7 @@ tools:
   category: Libraries
   sub_category: PyPI Packages
   image_url: https://img.stackshare.io/package/20053/default_9f5ca9b3fcd68c068d4026e56ab738e8e865691f.png
+  detection_source_url: https://github.com/ConsentirDev/examples/blob/master/tensorflow_examples/lite/model_maker/requirements.txt
   detection_source: tensorflow_examples/lite/model_maker/requirements.txt
   last_updated_by: Xunkai Zhang
   last_updated_on: 2021-08-24 04:59:30.000000000 Z
@@ -461,6 +528,7 @@ tools:
   category: Libraries
   sub_category: PyPI Packages
   image_url: https://img.stackshare.io/package/pypi/image.png
+  detection_source_url: https://github.com/ConsentirDev/examples/blob/master/lite/examples/image_classification/raspberry_pi/requirements.txt
   detection_source: lite/examples/image_classification/raspberry_pi/requirements.txt
   last_updated_by: Khanh LeViet
   last_updated_on: 2021-11-02 07:43:41.000000000 Z
@@ -473,6 +541,7 @@ tools:
   category: Libraries
   sub_category: PyPI Packages
   image_url: https://img.stackshare.io/package/19837/default_85689b353a3a9409328e253ea28d859d29151e0c.png
+  detection_source_url: https://github.com/ConsentirDev/examples/blob/master/lite/examples/pose_estimation/raspberry_pi/requirements.txt
   detection_source: lite/examples/pose_estimation/raspberry_pi/requirements.txt
   last_updated_by: Khanh LeViet
   last_updated_on: 2021-11-24 09:03:17.000000000 Z
@@ -485,6 +554,7 @@ tools:
   category: Libraries
   sub_category: PyPI Packages
   image_url: https://img.stackshare.io/package/19827/default_74a61b43bdb9fc0cba2978316b9976f43545029b.png
+  detection_source_url: https://github.com/ConsentirDev/examples/blob/master/tensorflow_examples/lite/model_maker/requirements.txt
   detection_source: tensorflow_examples/lite/model_maker/requirements.txt
   last_updated_by: Tian Lin
   last_updated_on: 2020-02-21 12:06:02.000000000 Z
@@ -497,6 +567,7 @@ tools:
   category: Libraries
   sub_category: PyPI Packages
   image_url: https://img.stackshare.io/package/pypi/image.png
+  detection_source_url: https://github.com/ConsentirDev/examples/blob/master/lite/examples/audio_classification/raspberry_pi/requirements.txt
   detection_source: lite/examples/audio_classification/raspberry_pi/requirements.txt
   last_updated_by: A. Unique TensorFlower
   last_updated_on: 2022-07-01 05:36:31.000000000 Z
@@ -509,6 +580,7 @@ tools:
   category: Libraries
   sub_category: PyPI Packages
   image_url: https://img.stackshare.io/package/pypi/image.png
+  detection_source_url: https://github.com/ConsentirDev/examples/blob/master/lite/examples/reinforcement_learning/ml/tf_and_jax/requirements.txt
   detection_source: lite/examples/reinforcement_learning/ml/tf_and_jax/requirements.txt
   last_updated_by: Wei Wei
   last_updated_on: 2022-09-09 01:03:58.000000000 Z
@@ -521,6 +593,7 @@ tools:
   category: Libraries
   sub_category: PyPI Packages
   image_url: https://img.stackshare.io/package/pypi/image.png
+  detection_source_url: https://github.com/ConsentirDev/examples/blob/master/lite/examples/reinforcement_learning/ml/tf_agents/requirements.txt
   detection_source: lite/examples/reinforcement_learning/ml/tf_agents/requirements.txt
   last_updated_by: A. Unique TensorFlower
   last_updated_on: 2022-06-24 01:38:20.000000000 Z
@@ -533,6 +606,7 @@ tools:
   category: Libraries
   sub_category: PyPI Packages
   image_url: https://img.stackshare.io/package/19846/default_accee5d2b8ed75c2245f13504daf75b1cbc8cc9f.png
+  detection_source_url: https://github.com/ConsentirDev/examples/blob/master/lite/examples/reinforcement_learning/ml/tf_and_jax/requirements.txt
   detection_source: lite/examples/reinforcement_learning/ml/tf_and_jax/requirements.txt
   last_updated_by: Wei Wei
   last_updated_on: 2022-09-09 01:03:58.000000000 Z
@@ -545,6 +619,7 @@ tools:
   category: Libraries
   sub_category: PyPI Packages
   image_url: https://img.stackshare.io/package/19842/default_4604ff5dcb7f4d9c7b3833591c2142493951b19c.png
+  detection_source_url: https://github.com/ConsentirDev/examples/blob/master/tensorflow_examples/lite/model_maker/requirements.txt
   detection_source: tensorflow_examples/lite/model_maker/requirements.txt
   last_updated_by: Yuqi Li
   last_updated_on: 2020-11-11 09:23:09.000000000 Z
@@ -557,6 +632,7 @@ tools:
   category: Libraries
   sub_category: PyPI Packages
   image_url: https://img.stackshare.io/package/pypi/image.png
+  detection_source_url: https://github.com/ConsentirDev/examples/blob/master/lite/examples/speech_commands/ml/requirements.txt
   detection_source: lite/examples/speech_commands/ml/requirements.txt
   last_updated_by: A. Unique TensorFlower
   last_updated_on: 2019-02-27 00:22:03.000000000 Z
@@ -569,6 +645,7 @@ tools:
   category: Libraries
   sub_category: Maven Packages
   image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/ConsentirDev/examples/blob/master/lite/examples/optical_character_recognition/android/app/build.gradle
   detection_source: lite/examples/optical_character_recognition/android/app/build.gradle
   last_updated_by: A. Unique TensorFlower
   last_updated_on: 2022-04-15 20:03:57.000000000 Z
@@ -580,6 +657,7 @@ tools:
   category: Libraries
   sub_category: Maven Packages
   image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/ConsentirDev/examples/blob/master/lite/examples/bert_qa/android/app/build.gradle
   detection_source: lite/examples/bert_qa/android/app/build.gradle
   last_updated_by: Paul Trebilcox-Ruiz
   last_updated_on: 2022-08-18 02:32:01.000000000 Z
@@ -592,6 +670,7 @@ tools:
   category: Libraries
   sub_category: Maven Packages
   image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/ConsentirDev/examples/blob/master/lite/examples/bert_qa/android/app/build.gradle
   detection_source: lite/examples/bert_qa/android/app/build.gradle
   last_updated_by: Paul Trebilcox-Ruiz
   last_updated_on: 2022-08-18 02:32:01.000000000 Z
@@ -603,6 +682,7 @@ tools:
   category: Libraries
   sub_category: Maven Packages
   image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/ConsentirDev/examples/blob/master/lite/examples/recommendation/android/app/build.gradle
   detection_source: lite/examples/recommendation/android/app/build.gradle
   last_updated_by: Tian Lin
   last_updated_on: 2020-07-29 14:59:12.000000000 Z
@@ -614,6 +694,7 @@ tools:
   category: Libraries
   sub_category: Maven Packages
   image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/ConsentirDev/examples/blob/master/lite/codelabs/digit_classifier/android/finish/app/build.gradle
   detection_source: lite/codelabs/digit_classifier/android/finish/app/build.gradle
   last_updated_by: Khanh LeViet
   last_updated_on: 2021-06-02 04:29:57.000000000 Z
@@ -625,6 +706,7 @@ tools:
   category: Libraries
   sub_category: Maven Packages
   image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/ConsentirDev/examples/blob/master/lite/examples/optical_character_recognition/android/app/build.gradle
   detection_source: lite/examples/optical_character_recognition/android/app/build.gradle
   last_updated_by: A. Unique TensorFlower
   last_updated_on: 2021-08-24 14:01:01.000000000 Z
@@ -636,6 +718,7 @@ tools:
   category: Libraries
   sub_category: Maven Packages
   image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/ConsentirDev/examples/blob/master/lite/codelabs/digit_classifier/android/finish/app/build.gradle
   detection_source: lite/codelabs/digit_classifier/android/finish/app/build.gradle
   last_updated_by: Khanh LeViet
   last_updated_on: 2021-06-02 04:29:57.000000000 Z
@@ -647,6 +730,7 @@ tools:
   category: Libraries
   sub_category: Maven Packages
   image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/ConsentirDev/examples/blob/master/lite/examples/audio_classification/android/app/build.gradle
   detection_source: lite/examples/audio_classification/android/app/build.gradle
   last_updated_by: A. Unique TensorFlower
   last_updated_on: 2022-07-01 02:23:33.000000000 Z
@@ -656,6 +740,7 @@ tools:
   category: Libraries
   sub_category: Maven Packages
   image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/ConsentirDev/examples/blob/master/lite/examples/optical_character_recognition/android/app/build.gradle
   detection_source: lite/examples/optical_character_recognition/android/app/build.gradle
   last_updated_by: A. Unique TensorFlower
   last_updated_on: 2021-08-24 14:01:01.000000000 Z
@@ -667,6 +752,7 @@ tools:
   category: Libraries
   sub_category: Maven Packages
   image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/ConsentirDev/examples/blob/master/lite/examples/audio_classification/android/app/build.gradle
   detection_source: lite/examples/audio_classification/android/app/build.gradle
   last_updated_by: A. Unique TensorFlower
   last_updated_on: 2022-07-01 02:23:33.000000000 Z
@@ -679,6 +765,7 @@ tools:
   category: Libraries
   sub_category: CocoaPods Packages
   image_url: https://img.stackshare.io/package/cocoapods/image.png
+  detection_source_url: https://github.com/ConsentirDev/examples/blob/master/lite/examples/digit_classifier/ios/Podfile
   detection_source: lite/examples/digit_classifier/ios/Podfile
   last_updated_by: A. Unique TensorFlower
   last_updated_on: 2019-09-06 09:05:23.000000000 Z
